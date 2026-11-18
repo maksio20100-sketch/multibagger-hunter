@@ -26,3 +26,7 @@ dist/
 .vscode/
 .idea/
 .DS_Store
+
+# Local SEC download cache and generated reports
+.sec_cache/
+reports/
